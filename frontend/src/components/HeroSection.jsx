@@ -8,7 +8,7 @@ const HeroSection = () => {
       <div className="container">
         <div className="banner">
           <div className="largeBox">
-            <h1 className="title">Sizzzling</h1>
+            <h1 className="title"> Sizzzling </h1>
           </div>
           <div className="combined_boxes">
             <div className="imageBox">
@@ -16,7 +16,7 @@ const HeroSection = () => {
             </div>
             <div className="textAndLogo">
               <div className="textWithSvg">
-                <h1 className="title">Spicess</h1>
+                <h1 className="title">  Spicy & </h1>
                 <h1 className="title dishes_title">Dishes</h1>
                 <img src="./threelines.svg" alt="threelines" />
               </div>

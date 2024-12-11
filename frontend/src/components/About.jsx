@@ -18,12 +18,12 @@ const About = () => {
               At <strong>Sizzle & Spices</strong> , we belive that food is more than just sustenance - it's an experience. That's why we prioritize fresh, hogh-quality ingridients and a warm, invitiong atmosphere where friends and families come togeather to share memorable moments.
             </p>
 
-            <Link to={"/"}>
+            {/* <Link to={"/"}>
               Explore Menu{" "}
               <span>
                 <HiOutlineArrowRight />
               </span>
-            </Link>
+            </Link> */}
           </div>
           <div className="banner">
             <img src="about.png" alt="about" />
