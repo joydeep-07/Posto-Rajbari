@@ -6,9 +6,9 @@ export const dbConnection = () => {
       dbName: "RESERVATIONS",
     })
     .then(() => {
-      console.log("Connected to database!");
+      console.log("Successfully Connected to database!");
     })
     .catch((err) => {
-      console.log(`Some error occured while connecing to database: ${err}`);
+      console.log(`Sorry, Some error occured while connecing to database: ${err}`);
     });
 };

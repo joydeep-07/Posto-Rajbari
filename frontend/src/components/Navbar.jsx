@@ -7,7 +7,7 @@ const Navbar = () => {
   return (
     <>
       <nav>
-        <div className="logo">Sizle & Spice</div>
+        <div className="logo">Posto Rajbari</div>
         <div className={show ? "navLinks showmenu" : "navLinks"}>
           <div className="links">
             {data[0].navbarLinks.map((element) => (

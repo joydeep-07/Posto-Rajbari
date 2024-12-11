@@ -44,7 +44,7 @@ const Reservation = () => {
     <section className="reservation" id="reservation">
       <div className="container">
         <div className="banner">
-          <img src="/reservation.png" alt="res" />
+          <img className = "reservation_banner" src="https://i.pinimg.com/474x/c6/b9/ca/c6b9caae1b9a94a71b556f98a4ab6e66.jpg" alt="res" />
         </div>
         <div className="banner">
           <div className="reservation_form_box">

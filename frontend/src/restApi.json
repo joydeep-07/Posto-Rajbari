@@ -16,7 +16,7 @@
             {
                 "id": 3,
                 "image": "./fast_delivery.svg",
-                "title": "FAST DELIVERY",
+                "title": "EASY RESERVATION",
                 "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat." 
             }
         ],
@@ -24,51 +24,51 @@
             
             {
                 "id": 2,
-                "image": "./dinner2.png",
-                "title": "CITRUS CURED SALMON",
-                "category": "Dinner"
+                "image": "https://images.unsplash.com/photo-1730705511504-9997ee641c99?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YmVuZ2FsaSUyMGZvb2R8ZW58MHx8MHx8fDA%3D",
+                "title": "ROSOGOLLA",
+                "category": "Desert"
             },
             {
                 "id": 3,
-                "image": "./breakfast1.png",
-                "title": "PAN SEARED SEA BASS",
-                "category": "Breakfast"
+                "image": "https://i.pinimg.com/474x/ec/88/df/ec88df8ac4de2ae2b494e499b77ceebd.jpg",
+                "title": "THE BENGALI THALI",
+                "category": "Lunch"
             },
             {
                 "id": 4,
-                "image": "./dinner3.png",
-                "title": "STUFFED STRAWBERRY",
-                "category": "Dinner"
+                "image": "https://i.pinimg.com/474x/ef/b6/e7/efb6e7c30f2ec339112b22bf10dd62dc.jpg",
+                "title": "NOLEN GURER ROSOGOLLA",
+                "category": "Desert"
             },
             {
                 "id": 5,
-                "image": "./lunch1.png",
-                "title": "CHIKEN BURGER MEAL",
+                "image": "https://i.pinimg.com/236x/d4/a2/e1/d4a2e1bed558b4a8b9644f5276ba1dd7.jpg",
+                "title": "SORSHE ILISH",
                 "category": "Lunch"
             },
             {
                 "id": 6,
-                "image": "./dinner4.png",
-                "title": "MUSSELS SOUP",
-                "category": "Dinner"
+                "image": "https://i.pinimg.com/474x/e8/c1/2b/e8c12b8650acff7bf1a3964fdb067910.jpg",
+                "title": "KOLKATA BIRYANI",
+                "category": "Main Course"
             },
             {
                 "id": 7,
-                "image": "./dinner5.png",
-                "title": "ITALIAN SPAGHETTI",
-                "category": "Dinner"
+                "image": "https://i.pinimg.com/474x/c3/ec/b5/c3ecb5eabd84375d14722cc1621e6242.jpg",
+                "title": "PAYESH",
+                "category": "Desert"
             },
             {
                 "id": 8,
-                "image": "./dinner6.png",
-                "title": "GRILLED FISH",
-                "category": "Dinner"
+                "image": "https://i.pinimg.com/236x/6d/3a/c1/6d3ac1e22fdcc49f082bee877eea8bf5.jpg",
+                "title": "LUCHI ALURDOM",
+                "category": "Breakfast"
             },
             {
                 "id": 1,
-                "image": "./dinner1.jpeg",
-                "title": "GRILLED MUTTON",
-                "category": "Dinner"
+                "image": "https://i.pinimg.com/736x/ce/28/b7/ce28b72ce5700350d0476d5a74e5b34f.jpg",
+                "title": "MACHER PATURI",
+                "category": "Lunch"
             }
         ],
         "team": [

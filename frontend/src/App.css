@@ -212,6 +212,7 @@ nav svg {
 .heroSection .container .banner .imageBox img {
   width: 300px;
   height: 385px;
+  border-radius: 15px;
 }
 .heroSection .container .banner:last-child .imageBox {
   text-align: end;
@@ -325,6 +326,12 @@ nav svg {
 
 /******************* ABOUT US COMPONENT STYLING **************/
 /**********************************************************************************************************************/
+.aboutbanner{
+  /* border: 2px solid red; */
+  border-radius: 15px;
+  height: 450px;
+  object-fit: cover;
+}
 .about {
   display: flex;
   min-height: 100vh;
@@ -439,7 +446,7 @@ nav svg {
 .qualities {
   display: flex;
   height: fit-content;
-  padding: 75px 20px;
+  /* padding: 75px 20px; */
   justify-content: center;
   align-items: center;
 }
@@ -545,6 +552,9 @@ nav svg {
 .menu .container .dishes_container .card img {
   width: 100%;
   height: 370px;
+  /* border: 2px solid red; */
+  border-radius: 15px;
+  object-fit: cover;
 }
 .menu .container .dishes_container .card h3 {
   font-size: 1.5rem;
@@ -851,6 +861,14 @@ footer .container .banner .right {
 
 /******************* RESERVATION COMPONENT STYLING **************/
 /**********************************************************************************************************************/
+.reservation_banner{
+  /* border: 2px solid red; */
+  height: 400px;
+  object-fit: cover;
+  rotate: -90deg;
+  border-radius: 15px;
+  position: absolute;
+}
 .reservation {
   display: flex;
   min-height: 75vh;
