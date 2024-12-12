@@ -7,7 +7,7 @@ const Menu = () => {
         <div className="container">
             <div className="heading_section">
                 <h1 className="heading">POPULAR DISHES</h1>
-                <p>At Sizzle & Spice, our popular dishers are a celebration of bold flavors, fresh ingridients, and culinary creativity. These crowd favourite are crafted to perfection, delivering unforgottable taste & Experience!</p>
+                <p>At Posto Rajbari, our popular dishers are a celebration of bold flavors, fresh ingridients, and culinary creativity. These crowd favourite are crafted to perfection, delivering unforgottable taste & Experience!</p>
             </div>
             <div className="dishes_container">
                 {
