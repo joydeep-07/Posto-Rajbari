@@ -39,6 +39,7 @@ nav .logo {
   display: flex;
   align-items: center;
   font-size: 2rem;
+  color:#9d0208;
 }
 nav .navLinks {
   flex: 2;
